@@ -1,0 +1,34 @@
+body{
+  font-family: 'Almarai', sans-serif;
+  background-color: #efede3;
+  color : white;
+}
+.Color-T-B{
+  background-color: #0f1d37;
+}
+.jumbotron{
+  background-color: #545454;
+}
+.navbar-dark .navbar-toggler {
+  border-color: white;
+}
+.navbar-toggler:focus, .navbar-toggler:active{
+  outline: none;
+  box-shadow: none;
+}
+.ColorBTN , .ColorBTN:hover ,.ColorBTN:focus{
+  background-color: #656565;
+  color : white;
+  box-shadow: none;
+}
+.ColorBorder{
+  border-color: #656565;
+}
+.CardColorBody{
+  background-color: white ;
+  color : black;
+}
+.copyright a{
+  font-family: 'Courgette', sans-serif;
+  color : white;
+}
